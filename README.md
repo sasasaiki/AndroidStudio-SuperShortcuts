@@ -204,6 +204,9 @@ Throw away your mouse and use the shortcut every day.
 | **⌃⌥H** | Call hierarchy  |
 | **⌘U** | Super Method  |
 | **⌘F12** | File Structure  |
+
+| Shortcut | Description |
+| :---: | :--- |
 | **⌘↑Delete** | Return to the last edited location  |
 | **F2** | Navigate to Error or Warning  |
 | **⌘⌥F12** | Reveal in Finder  |
@@ -221,6 +224,9 @@ Throw away your mouse and use the shortcut every day.
 | **⌘⇧U** | toggle upper/lower case  |
 | **⌥⌘L** | Reformat  |
 | **⌥⌃O** | Optimize Imports  |
+
+| Shortcut | Description |
+| :---: | :--- |
 | **⌥⌘V** | Variable  |
 | **⌥⌘F** | Property  |
 | **⌥⌘M** | Function  |
@@ -231,17 +237,20 @@ Throw away your mouse and use the shortcut every day.
 | **⌘F6** | Change signature  |
 | **⇧⌥↑/↓** | Move line  |
 | **⇧⌘↑/↓** | Move statement  |
-| **⌥⏎** | **Extract string resource**  |
-| **⌥⏎** | **Convert to Lambda**  |
-| **⌥⏎** | **Typo Rename to...**  |
-| **⌥⏎** | **Make 'xxx' private**  |
-| **⌥⏎** | **Safe delete 'xxx'**  |
-| **⌥⏎** | **Replace 'if' is 'when'**  |
-| **⌥⏎** | **Add remaining branches**  |
-| **⌥⏎** | **Change return type of enclosing function**  |
-| **⌥⏎** | **Convert to expression body**   |
-| **⌥⏎** | **Put parameters on separate lines**  |
-| **⌥⏎** | **Put parameters on one line**  |
+| **⌥⏎** | Extract string resource  |
+| **⌥⏎** | Convert to Lambda  |
+| **⌥⏎** | Typo Rename to...  |
+| **⌥⏎** | Make 'xxx' private  |
+| **⌥⏎** | Safe delete 'xxx'  |
+| **⌥⏎** | Replace 'if' is 'when'  |
+| **⌥⏎** | Add remaining branches  |
+
+| Shortcut | Description |
+| :---: | :--- |
+| **⌥⏎** | Change return type of enclosing function  |
+| **⌥⏎** | Convert to expression body   |
+| **⌥⏎** | Put parameters on separate lines  |
+| **⌥⏎** | Put parameters on one line  |
 | **⌃R** | Run  |
 | **⇧⌃R** | Run cursor target  |
 | **⌃D** | Debug  |
