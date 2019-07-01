@@ -180,3 +180,77 @@ Throw away your mouse and use the shortcut every day.
 | **⌘K** | commit |
 | **⇧⌘K** | push |
 | **⌃V** | VCS menu |
+
+
+## sessionで紹介したショートカット
+
+
+| Shortcut | Description |
+| :---: | :--- |
+| **⌘1** | Project  |
+| **⌥F12** | Terminal  |
+| **⇧Esc**| Hide last active tool window  |
+| **⌘⇧F12** | Maximize/minimize editor  |
+| **⌘⇧A** | Search Action  |
+| **Double⇧** | Search Everywhere  |
+| **⌘⇧O** | Find file  |
+| **⌘E** | Recent files list  |
+| **⌃Tab** | Return to previously opened file  |
+| **⌃⇧→** | cycle through xml file's tabs  |
+| **⌘\[/\]** or **⌘⌥←/→** | Back / Forward  |
+| **⌘B** | Declaration  |
+| **⌘⌥B** | Implementation  |
+| **⌘⌥F7** | Highlight Usages  |
+| **⌃⌥H** | Call hierarchy  |
+| **⌘U** | Super Method  |
+| **⌘F12** | File Structure  |
+| **⌘↑Delete** | Return to the last edited location  |
+| **F2** | Navigate to Error or Warning  |
+| **⌘⌥F12** | Reveal in Finder  |
+| **⌘P** | Parameter Info  |
+| **⌥space** | Quick Definition  |
+| **⌘F1** | Error description  |
+| **⇧⏎** | Start new line  |
+| **⌃Space** | code completion  |
+| **⌥↑/↓** | Expand/Shrink selection  |
+| **⌘delete** | Delete line  |
+| **⌘⌥T** | Wrap a block in try-catch, If, parenthesis  |
+| **⌃O** | Override  |
+| **⌘D** | Duplicate  |
+| **⌃G** | select occurrence  |
+| **⌘⇧U** | toggle upper/lower case  |
+| **⌥⌘L** | Reformat  |
+| **⌥⌃O** | Optimize Imports  |
+| **⌥⌘V** | Variable  |
+| **⌥⌘F** | Property  |
+| **⌥⌘M** | Function  |
+| **⌥⌘N** | inline  |
+| **⌃T**　| Refactor Menu  |
+| **F6** | Move class  |
+| **⇧F6** | Rename  |
+| **⌘F6** | Change signature  |
+| **⇧⌥↑/↓** | Move line  |
+| **⇧⌘↑/↓** | Move statement  |
+| **⌥⏎** | **Extract string resource**  |
+| **⌥⏎** | **Convert to Lambda**  |
+| **⌥⏎** | **Typo Rename to...**  |
+| **⌥⏎** | **Make 'xxx' private**  |
+| **⌥⏎** | **Safe delete 'xxx'**  |
+| **⌥⏎** | **Replace 'if' is 'when'**  |
+| **⌥⏎** | **Add remaining branches**  |
+| **⌥⏎** | **Change return type of enclosing function**  |
+| **⌥⏎** | **Convert to expression body**   |
+| **⌥⏎** | **Put parameters on separate lines**  |
+| **⌥⏎** | **Put parameters on one line**  |
+| **⌃R** | Run  |
+| **⇧⌃R** | Run cursor target  |
+| **⌃D** | Debug  |
+| **⌘F8** | Toggle line breakpoint  |
+| **F8** | Step over  |
+| **F7** | Step in  |
+| **⇧F8** | Step out  |
+| **⌥⌘R** | Jump to the next breakpoint  |
+| **⌥F9** | Stop at your current cursor position  |
+| **⌥F8** | Show the evaluate dialog  |
+| **⌃⌥R** | Show executed list  |
+| **⇧⌘T** | Jump to the associated test file  |
